@@ -1,6 +1,10 @@
 # 💫 About Me:
-Hello, my name is Antunes, i'm Brazilian and i'm interested in mathematics and technology.<br>I am currently a Mathematics teacher.<br>I am also a Front-End student.<br><br>Olá, meu nome é Antunes, sou Brasileiro e tenho interesse em matemática e tecnologia.<br>Atualmente sou professor de Matemática.<br>Também sou estudante Front-End.
-
+Hello, my name is Antunes, i'm Brazilian and i'm interested in mathematics and technology.<br>I am currently a Mathematics teacher.<br>I am also a Front-End student.<br><br>Olá, meu nome é Antunes, sou Brasileiro e tenho interesse em matemática e tecnologia.<br>Atualmente sou professor de Matemática.<br>Também sou estudante Front-End.<br><br><hr>
+Idiomas/Languages:<br>
+<ul>
+<li>Brazilian Portuguese (native)</li>
+<li>English (intermediary)</li>
+</ul>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/antunes.menezes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antunes.menezes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antunes-menezes-015099305) 
