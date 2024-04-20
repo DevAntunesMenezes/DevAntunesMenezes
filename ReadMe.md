@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, <br>my name is Antunes, i'm Brazilian and i'm interested in mathematics and technology.<br>I am currently a Mathematics teacher and Front-End student.<br><br>
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, <br>meu nome é Antunes, sou Brasileiro e tenho interesse em matemática e tecnologia.<br>Atualmente sou professor de Matemática e estudante Front-End.<br><hr>
+<hr>
 Languages:<br>
 <ul>
 <li>Brazilian Portuguese (native)</li>
