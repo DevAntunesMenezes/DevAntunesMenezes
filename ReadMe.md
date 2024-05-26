@@ -1,12 +1,8 @@
-# 💫 About Me:
-Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, <br>my name is Antunes, i'm Brazilian and i'm interested in mathematics and technology.<br>I am currently a Mathematics teacher and Front-End student.<br>
+Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, <br>
+my name is Antunes, i'm Brazilian and i'm interested in mathematics and technology.<br>I am currently a Mathematics teacher and Front-End student.<br>
 <hr>
-Languages:<br>
-<ul>
-<li>Brazilian Portuguese (native)</li>
-<li>English (intermediary)</li>
-</ul><hr>
-<p>Tech Stack:</p>
+
+<p>Tecnologias que uso:</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
