@@ -1,6 +1,6 @@
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, <br>
+<h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, <br>
 <p>Eu sou Antunes. Sou apaixonado por tecnologia e matemática.</p>
-<p>Atualmente ensino matemática no ensino médio e estudo programação web.</p>
+<p>Atualmente ensino matemática no ensino médio e estudo programação web.</p></h2>
 <hr>
 
 <p>Tecnologias que uso:</p>
