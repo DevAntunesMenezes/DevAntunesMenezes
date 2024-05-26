@@ -1,5 +1,6 @@
-Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, <br>
-my name is Antunes, i'm Brazilian and i'm interested in mathematics and technology.<br>I am currently a Mathematics teacher and Front-End student.<br>
+Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, <br>
+<p>Eu sou Antunes. Sou apaixonado por tecnologia e matemática.</p>
+<p>Atualmente ensino matemática no ensino médio e estudo programação web.</p>
 <hr>
 
 <p>Tecnologias que uso:</p>
