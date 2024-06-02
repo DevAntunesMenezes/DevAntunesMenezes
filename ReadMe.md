@@ -1,8 +1,7 @@
 <hr>
 <h3><p>Olá!</p>
 <p>Eu sou Antunes.<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></p>
-<p>Sou apaixonado por tecnologia e matemática.</p>
-<p>Atualmente sou professor de matemática e estudo programação web.</p></h3>
+</h3>
 <hr>
 
 ## Redes Sociais:
