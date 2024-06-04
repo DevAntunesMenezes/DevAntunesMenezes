@@ -1,5 +1,6 @@
 <hr>
 <h3><p>Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></p>
+<p>Eu sou o Antunes e seja Bem vindo. 😎</p>
 </h3>
 <hr>
 
