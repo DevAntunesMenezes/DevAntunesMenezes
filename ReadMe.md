@@ -1,5 +1,5 @@
 # 💫 About Me:
- Olá, me chamo Antunes.<br><br>⚡ Sou Brasileiro.<br>⚡ Inglês intermediário.<br>⚡ Licenciado e especialista em Matemática.<br>⚡ Atualmente sou professor de Matemática.<br>⚡ Apaixonado por tecnologia e matemática.<br>⚡ Estudante de desenvolvimento Front-End.<br>
+ Olá, me chamo Antunes. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>⚡ Sou Brasileiro.<br>⚡ Inglês intermediário.<br>⚡ Licenciado e especialista em Matemática.<br>⚡ Atualmente sou professor de Matemática.<br>⚡ Apaixonado por tecnologia e matemática.<br>⚡ Estudante de desenvolvimento Front-End.<br>
 
 
 ## 🌐 Socials:
