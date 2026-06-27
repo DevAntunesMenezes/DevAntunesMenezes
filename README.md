@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 Olá, me chamo Antunes! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>
 Sou um entusiasta da educação e apaixonado por números. Leciono Matemática com orgulho, mas estou trilhando um novo caminho rumo ao universo da Tecnologia.<br><br>
-📈 Atualmente estou estudando Python e Javascript.<br><br>
+📈 Atualmente estou estudando Python.<br><br>
 Curto tecnologia, café e bons desafios lógicos. Vamos construir e aprender juntos?<br>
 
 
